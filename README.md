@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp> HOLA!, soy
-                <b><a target="_blank" href="https://alsiam.com">Lucas Rodrigues</a></b>
+                <b><a target="_blank" href="www.linkedin.com/in/ellukita97">Lucas Rodrigues</a></b>
         </samp>
 </h3>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <a href="www.linkedin.com/in/ellukita97" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
