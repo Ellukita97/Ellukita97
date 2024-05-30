@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" >
-  <img src="https://media.licdn.com/dms/image/D4D03AQEFzofqWsxorQ/profile-displayphoto-shrink_800_800/0/1708396818928?e=1720656000&v=beta&t=uqmpRPtH2H1Mr6axqXHZI_S2r3wM0AeBEmFAV2AD4M8" alt="Alt Text" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" alt="Alt Text" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
