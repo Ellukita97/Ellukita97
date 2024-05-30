@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" >
-  <img src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" alt="Alt Text" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" alt="Alt Text" width="400" height="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
